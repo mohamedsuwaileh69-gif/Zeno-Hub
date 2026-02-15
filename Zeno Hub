@@ -1,6 +1,6 @@
 -- ============================================================
--- 22S DUELS - BLUE EDITION + FAST ESP
--- discord.gg/22s
+-- Zeno Hub DUELS - Red EDITION + FAST ESP
+-- https://discord.gg/es94NtKgw
 -- ============================================================
 
 repeat task.wait() until game:IsLoaded()
